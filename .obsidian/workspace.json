@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "3d03a03db9c7a873",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea37697521e25c06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a913d9964bd1053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code Base/Microsoft Visual Studio.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3551045c1004c84b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e8ebacd904470d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ada84dd287f230ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69733a30831a85ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b08e7588e1ba6824",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d9c1790a55acec9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2cd60bb951d1b7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e873791d5f9a8664",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Code Base/Microsoft Visual Studio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "444098fc209217b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Code Base/Microsoft Visual Studio.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "547cc2024b30a5c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0fd8e2d3ea217fff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Code Base/Microsoft Visual Studio.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8a913d9964bd1053",
+  "lastOpenFiles": [
+    "CSharp Lang.md",
+    "ASP.NET和ADO.NET.md",
+    "Code Base/Microsoft Visual Studio.md",
+    "Code Base/CLR.md",
+    "Code Base/Visual Studio Community.md",
+    "Code Base/Visual Studio Enterprise Edition.md",
+    "Code Base/Visual Studio Professional Edition.md",
+    "Code Base",
+    "Code Base/ASP.NET.md",
+    "Code Base/ADO.NET.md",
+    "未命名 1",
+    "Code Content",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
