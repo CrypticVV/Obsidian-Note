@@ -13,12 +13,6 @@
 - 提供了一组类库和接口,用来方便地操作数据库
 - 经常与ASP.NET结合使用,ASP.NET负责网页和UI,ADO.NET负责数据存储访问
 
-总结一下:
-
-- ASP.NET是构建Web应用和页面的框架
-- ADO.NET是数据库访问和数据管理的框架
-- 二者可以很好地配合,分工明确,ASP.NET负责前端与用户的交互和界面,ADO.NET负责后台与数据库的交互和数据管理。
-
 
 在ASP.NET里面操作数据库,背后就是通过ADO.NET来实现的。
 
@@ -28,8 +22,16 @@ ADO.NET提供了诸如SqlConnection,SqlCommand,SqlDataReader等数据库连接�
 
 所以ASP.NET本身只提供了网页框架和应用框架。如果需要数据库支持,必须借助ADO.NET实现对数据库的访问。可以简单地理解为ASP.NET是前端与用户交互的部分,而需要数据库交互时就调用了ADO.NET进行具体的数据库操作。所以在ASP.NET应用中操作数据库就是在使用和调用ADO.NET。
 
+
 总的来说,ASP.NET和ADO.NET的区分和合作是:
 
 - ASP.NET负责Web应用的框架和前端
 - ADO.NET负责提供数据库访问能力
 - ASP.NET应用通过调用ADO.NET里的类和接口实现对数据库的操作。
+
+
+总结一下:
+
+- ASP.NET是构建Web应用和页面的框架
+- ADO.NET是数据库访问和数据管理的框架
+- 二者可以很好地配合,分工明确,ASP.NET负责前端与用户的交互和界面,ADO.NET负责后台与数据库的交互和数据管理。

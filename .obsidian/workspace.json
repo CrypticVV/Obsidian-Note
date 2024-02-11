@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "ea37697521e25c06",
+        "id": "cd13c6f3f1784ad3",
         "type": "tabs",
         "children": [
           {
-            "id": "8a913d9964bd1053",
+            "id": "2cd041f984ca1ded",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Base/Microsoft Visual Studio.md",
-                "mode": "preview",
+                "file": "CSharp Lang.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8f0b21124789570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Framework Class Library (FCL).md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,8 +63,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "path:\"Code Base\"  ",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -70,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 352.5
   },
   "right": {
     "id": "1d9c1790a55acec9",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Base/Microsoft Visual Studio.md",
+                "file": "Framework Class Library (FCL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Base/Microsoft Visual Studio.md",
+                "file": "Framework Class Library (FCL).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Base/Microsoft Visual Studio.md"
+                "file": "Framework Class Library (FCL).md"
               }
             }
           }
@@ -147,18 +161,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8a913d9964bd1053",
+  "active": "d8f0b21124789570",
   "lastOpenFiles": [
     "CSharp Lang.md",
+    "Framework Class Library (FCL).md",
     "ASP.NET和ADO.NET.md",
-    "Code Base/Microsoft Visual Studio.md",
-    "Code Base/CLR.md",
+    "Code Base/Native Code.md",
+    "Code Base/Intermediate Language (IL).md",
+    "Code Base/Asynchronous Programming.md",
+    "Code Base/Integrated Development Environment (IDE).md",
+    "Code Base/Common Language Runtime (CLR).md",
+    "Code Base/ADO.NET.md",
+    "Code Base/ASP.NET.md",
     "Code Base/Visual Studio Community.md",
+    "Code Base/Microsoft Visual Studio (VS).md",
+    "C.md",
     "Code Base/Visual Studio Enterprise Edition.md",
     "Code Base/Visual Studio Professional Edition.md",
     "Code Base",
-    "Code Base/ASP.NET.md",
-    "Code Base/ADO.NET.md",
     "未命名 1",
     "Code Content",
     "Welcome.md",

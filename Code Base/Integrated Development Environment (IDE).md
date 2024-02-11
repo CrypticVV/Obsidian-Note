@@ -1,0 +1,5 @@
+集成开发环境（Integrated Development Environment，簡稱IDE，也稱為Integration Design Environment, Integration Debugging Environment）是一種輔助程式開發人員開發軟體的應用軟體，在開發工具內部就可以輔助編寫原始碼文本、並編譯打包成為可用的程序，有些甚至可以設計圖形介面。
+
+IDE通常包括程式語言編輯器、自動构建工具、通常還包括除錯器。
+
+有些IDE包含編譯器／直譯器，如微软的Microsoft Visual Studio，有些则不包含，如Eclipse、SharpDevelop等，这些IDE是通过调用第三方编译器来实现代码的编译工作的。有時IDE還會包含版本控制系統和一些可以設計圖形用戶界面的工具。許多支援物件導向的現代化IDE還包括了類別瀏覽器、物件檢視器、物件結構圖。雖然目前有一些IDE支援多種程式語言（例如Eclipse、NetBeans、Microsoft Visual Studio），但是一般而言，IDE主要還是針對特定的程式語言而量身打造（例如Visual Basic, Spyder）
