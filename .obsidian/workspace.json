@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2cd041f984ca1ded",
+            "id": "c75eee64f0e0aeab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d8f0b21124789570",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Framework Class Library (FCL).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Framework Class Library (FCL).md",
+                "file": "CSharp Lang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Framework Class Library (FCL).md",
+                "file": "CSharp Lang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Framework Class Library (FCL).md"
+                "file": "CSharp Lang.md"
               }
             }
           }
@@ -161,21 +147,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d8f0b21124789570",
+  "active": "ada84dd287f230ae",
   "lastOpenFiles": [
     "CSharp Lang.md",
     "Framework Class Library (FCL).md",
+    "NET Runtime.md",
+    "Object-Oriented Programming (OOP).md",
+    "NET Framework.md",
+    "C.md",
     "ASP.NET和ADO.NET.md",
+    "Code Base/Common Language Runtime (CLR).md",
     "Code Base/Native Code.md",
     "Code Base/Intermediate Language (IL).md",
     "Code Base/Asynchronous Programming.md",
     "Code Base/Integrated Development Environment (IDE).md",
-    "Code Base/Common Language Runtime (CLR).md",
     "Code Base/ADO.NET.md",
     "Code Base/ASP.NET.md",
     "Code Base/Visual Studio Community.md",
     "Code Base/Microsoft Visual Studio (VS).md",
-    "C.md",
     "Code Base/Visual Studio Enterprise Edition.md",
     "Code Base/Visual Studio Professional Edition.md",
     "Code Base",
