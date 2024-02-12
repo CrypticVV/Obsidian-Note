@@ -14,8 +14,8 @@
 
 7. WCF(Windows Communication Foundation)。这是一个构建服务导向应用的框架。
 
-8. .NET Framework 使用的运行时 [[Common Language Runtime (CLR)]] 版本目前最高为 4.8版本， 比如 .Net Framework 4.8 里的 C#版本为 8.0， 而且CLR的初始版本为4
+8. .NET Framework 使用的运行时 [[Common Language Runtime (CLR)]] 版本目前最高为 4.8版本， 比如 [[DOT NET Framework]] 4.8 里的 C#版本为 8.0， 而且CLR的初始版本为4
 
-可以看到 .NET Framework 覆盖了应用开发的各个方面,提供了非常全面和规范的框架支持。构建在它之上的程序可以直接利用这些服务,大大简化开发复杂性,提高效率。
+可以看到 [[DOT NET Framework]] 覆盖了应用开发的各个方面,提供了非常全面和规范的框架支持。构建在它之上的程序可以直接利用这些服务,大大简化开发复杂性,提高效率。
 
-它只能运行在Windows系统上,当前版本是4.8。随着 .NET Core 的推出 .NET Framework 将逐步被其取代。但在面向Windows平台时,它仍然是很重要的解决方案。
+它只能运行在Windows系统上,当前版本是4.8。随着 [[ASP .NET CORE]] 的推出 [[DOT NET Framework]] 将逐步被其取代。但在面向Windows平台时,它仍然是很重要的解决方案。

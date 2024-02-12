@@ -24,22 +24,22 @@ C#（C Sharp）时，我们通常指的是一种流行的面向对象的编程�
 	开发人员编写C#代码，这是人类可读的代码
     
 2. **[[Intermediate Language (IL)]]**
-	C#代码经过编译器编译后生成IL代码。IL代码是一种中间语言，它是与平台无关的低级代码，可以在.NET运行时（CLR）上执行
+	C#代码经过编译器编译后生成[[Intermediate Language (IL)]]代码。[[Intermediate Language (IL)]]代码是一种中间语言，它是与平台无关的低级代码，可以在.NET运行时（[[Common Language Runtime (CLR)]]）上执行
     
 3. **[[Common Language Runtime (CLR)]]**
-	CLR负责将IL代码转换成本地机器码，并在运行时执行。CLR提供了垃圾回收、安全性、类型安全、异常处理等核心功能
+	[[Common Language Runtime (CLR)]]负责将[[Intermediate Language (IL)]]代码转换成本地机器码，并在运行时执行。[[Common Language Runtime (CLR)]]提供了垃圾回收、安全性、类型安全、异常处理等核心功能
     
 4. **[[Native Code]]**
-	CLR将IL代码转换成特定平台的本地机器码，然后在计算机上执行
+	[[Common Language Runtime (CLR)]]将[[Intermediate Language (IL)]]代码转换成特定平台的本地机器码，然后在计算机上执行
 
 
 C#语言常见的框架和库系统主要包括:
 
-1. [[NET Framework]] 微软的初代.NET框架实现,内置丰富的BCL类库,可以快速开发Windows桌面和Web应用程序。
+1. [[DOT NET Framework]] 微软的初代.NET框架实现,内置丰富的BCL类库,可以快速开发Windows桌面和Web应用程序。
 
 2. .NET Core NET的跨平台版本框架,可以构建Windows、Linux和macOS上的应用程序。
 
-3. .NET 5+ 最新一代的.NET统一框架,融合了.NET Framework和.NET Core的特性。
+3. .NET 5+ 最新一代的.NET统一框架,融合了 [[DOT NET Framework]] 和.NET Core的特性。
 
 4. Mono 跨平台、开源的.NET框架实现,可在多种系统上运行.NET应用。
 
@@ -58,18 +58,18 @@ C#语言常见的框架和库系统主要包括:
 这些框架为C#提供了非常强大和丰富的应用场景,涵盖桌面、Web、移动和游戏开发等领域,是C#语言得以大行其道的重要基石。
 
 
-C#语言和[[NET Runtime]]的关系可以总结为以下几点:
+C#语言和[[DOT NET Runtime]]的关系可以总结为以下几点:
 
-1. C#是为.NET平台而设计的语言, [[NET Runtime]]提供了C#代码运行的环境。两者是不可分割的。
+1. C#是为 [[DOT Net]] 平台而设计的语言, [[DOT NET Runtime]]提供了C#代码运行的环境。两者是不可分割的。
 
 2. C#代码在编译时会被转换为通用的[[Intermediate Language (IL)]]代码。IL代码依赖.NET Runtime去执行。
 
-3. .NET Runtime为C#程序在运行时提供了内存管理、线程调度、异常处理、安全检查等重要系统服务。
+3. [[DOT NET Runtime]] 为C#程序在运行时提供了内存管理、线程调度、异常处理、安全检查等重要系统服务。
 
-4. .NET Runtime为C#程序提供了丰富的基类库,涵盖数据访问、图像处理、网络通讯等功能,C#可以直接利用这些类库。
+4. [[DOT NET Runtime]] 为C#程序提供了丰富的基类库,涵盖数据访问、图像处理、网络通讯等功能,C#可以直接利用这些类库。
 
-5. C#语言本身也在不断发展和改进,以提供更好的交互体验和支持.NET Runtime的新特性,两者是互相适应的。
+5. C#语言本身也在不断发展和改进,以提供更好的交互体验和支持 [[DOT NET Runtime]] 的新特性,两者是互相适应的。
 
-6. 除C#外,.NET Runtime也支持其他.NET语言如VB.NET,F#等语言。它为所有这些语言提供了共享的运行平台。
+6. 除C#外 [[DOT NET Runtime]] 也支持其他.NET语言如VB.NET,F#等语言。它为所有这些语言提供了共享的运行平台。
 
-所以简而言之,C#依赖.NET Runtime运行,两者是绑定在一起的。.NET Runtime为C#程序在编译运行时提供了完整而可靠的支持。它们不可分割。随着.NET不断发展,C#也在完善以适应其新特性和需求。
+所以简而言之,C#依赖 [[DOT NET Runtime]] 运行,两者是绑定在一起的。 [[DOT NET Runtime]] 为C#程序在编译运行时提供了完整而可靠的支持。它们不可分割。随着 [[DOT Net]] 不断发展,C#也在完善以适应其新特性和需求。
