@@ -11,16 +11,16 @@
 - 是用于访问数据库的.NET框架中的数据访问层
 - 负责应用程序与各种数据库的交互和数据提取
 - 提供了一组类库和接口,用来方便地操作数据库
-- 经常与ASP.NET结合使用,ASP.NET负责网页和UI,ADO.NET负责数据存储访问
+- 经常与 ASP.NET 结合使用, ASP.NET 负责网页和UI, [[ADO.NET]] 负责数据存储访问
 
 
 在ASP.NET里面操作数据库,背后就是通过ADO.NET来实现的。
 
 具体来说,ASP.NET网页和应用本身是没有数据库访问和操作能力的。当您在ASP.NET的代码后端(比如C#代码)中需要操作数据库时,实际上是通过ADO.NET提供的类和接口来实现的。
 
-ADO.NET提供了诸如SqlConnection,SqlCommand,SqlDataReader等数据库连接和操作的类。ASP.NET应用需要通过这些ADO.NET的类来连接数据库,执行SQL语句,获取和处理数据。
+[[ADO.NET]] 提供了诸如SqlConnection,SqlCommand,SqlDataReader等数据库连接和操作的类。ASP.NET应用需要通过这些ADO.NET的类来连接数据库,执行SQL语句,获取和处理数据。
 
-所以ASP.NET本身只提供了网页框架和应用框架。如果需要数据库支持,必须借助ADO.NET实现对数据库的访问。可以简单地理解为ASP.NET是前端与用户交互的部分,而需要数据库交互时就调用了ADO.NET进行具体的数据库操作。所以在ASP.NET应用中操作数据库就是在使用和调用ADO.NET。
+所以 ASP.NET 本身只提供了网页框架和应用框架。如果需要数据库支持,必须借助ADO.NET实现对数据库的访问。可以简单地理解为ASP.NET是前端与用户交互的部分,而需要数据库交互时就调用了ADO.NET进行具体的数据库操作。所以在ASP.NET应用中操作数据库就是在使用和调用ADO.NET。
 
 
 总的来说,ASP.NET和ADO.NET的区分和合作是:

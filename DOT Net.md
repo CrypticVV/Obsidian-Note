@@ -2,15 +2,15 @@
 
 关于 .NET 的一些关键点总结如下:
 
-1. 提供通用的运行时环境(CLR),支持多种语言如 [[C Sharp Lang]]、VB.NET、F# 等,编译生成的 [[Intermediate Language (IL)]] 代码可以在 [[Common Language Runtime (CLR)]] 上运行。
+1. 提供通用的运行时环境([[Common Language Runtime (CLR)]]),支持多种语言如 [[C Sharp Lang]]、VB.NET、F# 等,编译生成的 [[Intermediate Language (IL)]] 代码可以在 [[Common Language Runtime (CLR)]] 上运行。
 
 2. 提供一整套完备的类库(BCL),覆盖数据访问、UI控件、网络通信、安全管理等众多功能,加速应用开发。
 
 3. 支持不同类型的应用开发,包括桌面应用、Web应用、移动应用、游戏、机器学习等。
 
-4. 通过 [[DOT NET Framework]]、.NET Core 和 .NET 5 等版本的演进,逐步实现了跨平台支持,可以部署到 Windows、Linux 和 MacOS 多个环境。
+4. 通过 [[DOT NET Framework]]、[[DOT Net Core]] 和 .NET 5 等版本的演进,逐步实现了跨平台支持,可以部署到 Windows, Linux 和 MacOS 多个环境。
 
-5. 开源化。.NET Core 和后续版本完全开源,社区可以参与其建设。
+5. 开源化。[[DOT Net Core]] 和后续版本完全开源,社区可以参与其建设。
 
 6. 语言和框架可以跨版本高度兼容,降低学习和迁移成本。
 

@@ -19,8 +19,74 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11e675ba57005fd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Questions (C Sharp).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38719fd243767594",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Questions (C Sharp).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d2f65a32cdfabc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Common Intermediate Language (CIL).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09965aef2f483cec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Questions (C Sharp).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8cbca24034a46d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C Sharp Lang.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -147,17 +213,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ada84dd287f230ae",
+  "active": "e8cbca24034a46d1",
   "lastOpenFiles": [
+    "README.md",
+    "Common Intermediate Language (CIL).md",
+    "DOT Net Core.md",
     "DOT NET Framework.md",
+    "Interview Questions (C Sharp).md",
+    "Object-Oriented Programming (OOP).md",
+    "Just-In-Time (JIT).md",
+    "DOT Net.md",
     "DOT NET Runtime.md",
     "Framework Class Library (FCL).md",
-    "Object-Oriented Programming (OOP).md",
-    "ASP .NET CORE.md",
-    "DOT Net.md",
     "C Sharp Lang.md",
-    "ASP .NET and ASP .NET CORE.md",
     "ASP.NET and ADO.NET.md",
+    "ASP .NET Core and .NET Core.md",
+    "ASP .NET CORE.md",
+    "ASP .NET and ASP .NET CORE.md",
     "Code Base/ASP.NET.md",
     "C.md",
     "Code Base/Common Language Runtime (CLR).md",
@@ -169,11 +241,8 @@
     "Code Base/Visual Studio Community.md",
     "Code Base/Microsoft Visual Studio (VS).md",
     "Code Base/Visual Studio Enterprise Edition.md",
-    "Code Base/Visual Studio Professional Edition.md",
     "Code Base",
     "未命名 1",
-    "Code Content",
-    "Welcome.md",
-    "create a link.md"
+    "Code Content"
   ]
 }
